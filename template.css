@@ -1,0 +1,13 @@
+input{
+    margin: 3px;
+    text-align: center;
+}
+div{
+    border-style: solid;
+    border-color: bisque;
+    margin: auto;
+    text-align: center;
+}
+head{
+    text-align: center;
+}
